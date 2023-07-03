@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
     <div align=left>
         <br>
         <p>
-<h5>Hello,I'm <i>Vikas</i> from Mumbai India, i'm learning to develop myself as my name.</h5>
+<h5>Hello,I'm <i>Pradeep Bharti</i> from Mumbai India, i'm learning to develop myself as my name.</h5>
          <h5>Ambitious learner<h5>
   <h5>I'm an IT student at University of Mumbai.</h5>
 <h5>Trying to sleep but bugs are irritating<h5>
