@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeepbharti 
 - 👀 I’m interested in Java,C# Developer 
-- 🌱 I had done the MSc. in Information Technology from Mumbai University 
+- 🌱 I have done the MSc. in Information Technology from Mumbai University 
 - 📫 On github we will get my information to reach me out. 
 
 <!---
