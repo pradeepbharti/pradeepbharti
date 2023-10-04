@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://readme-typing-svg.herokuapp.com?/font-family=Architects+Daughter&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Pradeep+Bharti%F0%9F%91%8B;" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/vikas-patel-705435203"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/pradeepbharti/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
     <div align=left>
         <br>
