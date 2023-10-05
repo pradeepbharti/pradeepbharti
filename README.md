@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeepbharti 
-- 👀 I’m interested in Java,C# Developer 
-- 🌱 I have done the MSc. in Information Technology from Mumbai University 
+- 👀 My Interest in Java,C#,.Net Language. 
+- 🌱 I have done the MsSc. in Information Technology from Mumbai University 
 - 📫 On github we will get my information to reach me out. 
 
 <!---
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
         <p>
 <h5>Hello,I'm <i>Pradeep Bharti</i> from Mumbai India, i'm learning to develop myself as my name.</h5>
          <h5>Ambitious learner<h5>
-  <h5>I'm an IT student at University of Mumbai.</h5>
+  <h5>I'm an IT student Graduated from Mumbai University </h5>
 <h5>Trying to sleep but bugs are irritating<h5>
      
 ![trophy](https://github-profile-trophy.vercel.app/?username=Vikaspatel2&row=1&no-bg=true)
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
         <p>
 <h5>Hello,I'm <i>Pradeep</i> from Mumbai India, i'm learning to develop myself as my name.</h5>
          <h5>Ambitious learner<h5>
-  <h5>I'm an IT student at University of Mumbai.</h5>
+  <h5>I'm an IT student Graduated from Mumbai University</h5>
 <h5>Trying to sleep but bugs are irritating<h5>
      
 ![trophy](https://github-profile-trophy.vercel.app/?username=Vikaspatel2&row=1&no-bg=true)
@@ -87,6 +87,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!---
-vikaspatel2/vikaspatel2 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+pradeepbharti/pradeepbharti is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
