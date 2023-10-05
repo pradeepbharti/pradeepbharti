@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="150">
+        <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?/font-family=Architects+Daughter&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Pradeep+Bharti%F0%9F%91%8B;" alt="Headline" />
