@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-<a href="https://www.hackerrank.com/certificates/9aa4db46bf05">CLICK ME</a>
+<a href="[https://www.hackerrank.com/certificates/9aa4db46bf05](https://goldmedal.udemy.com/certificate/UC-d4e094f1-da7b-4877-956c-daae27aaa28c/)">CLICK ME</a>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
